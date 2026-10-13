@@ -2,6 +2,7 @@
  
 #include <stdio.h>
 
-int main(){
+int main(void){
+	printf("Goodbye, user!\n");
 	return 0;
 }
